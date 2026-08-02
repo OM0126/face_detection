@@ -33,7 +33,7 @@ Model:
 yolov8m-face.pt
 ```
 
-## Technologies Used
+## Technologies Used.
 
 - Python
 - OpenCV
